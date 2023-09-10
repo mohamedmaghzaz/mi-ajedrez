@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mi-ajedrez/static/css/main.f6436e6d.css",
+    "main.js": "/mi-ajedrez/static/js/main.6f57c112.js",
+    "index.html": "/mi-ajedrez/index.html",
+    "main.f6436e6d.css.map": "/mi-ajedrez/static/css/main.f6436e6d.css.map",
+    "main.6f57c112.js.map": "/mi-ajedrez/static/js/main.6f57c112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6436e6d.css",
+    "static/js/main.6f57c112.js"
+  ]
+}
